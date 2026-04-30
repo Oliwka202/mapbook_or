@@ -7,3 +7,4 @@ users: list = [
     {'username': 'filip', 'location': 'dęblin', 'posts': 4,
      'usermessage': ['życzenia4', 'kocham legie3', 'sprzedam opla3', 'kiwi3']},
 ]
+
